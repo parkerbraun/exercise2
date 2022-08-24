@@ -3,6 +3,7 @@ Learning about github
 
 **This is some changes
 
-**I feel like this could be done faster but here we are
+**Github is a way to upload and update files and collaborate
 
-**Thank goodness this class will be in person starting next week
+
+**Use the desktop app as a second way to manage repos.
